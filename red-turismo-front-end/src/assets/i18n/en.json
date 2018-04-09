@@ -28,19 +28,5 @@
     "Pending Task" : "Pending Task",
     "In queue" : "In queue",
     "Mail" : "Mail",
-    "View All" : "View All",
-    "Categories" : "Categories",
-    "PopularGiftCards" : "Popular GiftCards",
-    "Buy" : "Buy",
-    "PageNotFound" : "Error Page Not found!!",
-    "GiftCardDescription" : "GiftCard Description",
-    "Details" : "Details",
-    "Destinatary" : "Destinatary",
-    "Name" : "Name",
-    "LastName" : "LastName",
-    "Message" : "Message",
-    "PayMethod" : "PayMethod",
-    "AddToCar" : "Add to shopping cart",
-    "Back" : "Back",
-    "ShoppingCart" : "Shopping Cart"
+    "View All" : "View All"
 }

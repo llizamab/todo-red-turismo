@@ -28,19 +28,5 @@
     "Pending Task" : "Tarea pendiente",
     "In queue" : "En cola",
     "Mail" : "Correo",
-    "View All" : "Ver todo",
-    "Categories" : "Categorias",
-    "PopularGiftCards" : "GiftCards populares",
-    "Buy" : "Comprar",
-    "PageNotFound" : "Error no existe la página!!",
-    "GiftCardDescription" : "Descripción de la giftcard",
-    "Details" : "Detalles",
-    "Destinatary" : "Destinatario",
-    "Name" : "Nombre",
-    "LastName" : "Apellido",
-    "Message" : "Mensaje",
-    "PayMethod" : "Medio de pago",
-    "AddToCar" : "Agregar al Carro",
-    "Back" : "Volver",
-    "ShoppingCart" : "Carrito de Compra"
+    "View All" : "Ver todo"
 }
